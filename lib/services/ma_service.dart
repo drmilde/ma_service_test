@@ -1,6 +1,6 @@
-import 'package:ms_service_test/services/model/migraeneanfall.dart';
 
 import 'mabackend_service_provider.dart';
+import 'model/migraeneanfall.dart';
 import 'model/object_not_found_exception.dart';
 
 class MAService {

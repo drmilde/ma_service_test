@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_form_builder/flutter_form_builder.dart';
 import 'package:form_builder_validators/form_builder_validators.dart';
-import 'package:ms_service_test/services/ma_service.dart';
-import 'package:ms_service_test/services/model/migraeneanfall.dart';
 
+import '../../services/ma_service.dart';
+import '../../services/model/migraeneanfall.dart';
 import '../../services/model/object_not_found_exception.dart';
 
 

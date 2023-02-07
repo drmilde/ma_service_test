@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:ms_service_test/screens/service_screens/migraenanfall_edit_screen.dart';
-import 'package:ms_service_test/services/ma_service.dart';
-import 'package:ms_service_test/services/mabackend_service_provider.dart';
-import 'package:ms_service_test/services/model/migraeneanfall.dart';
+
+import '../../services/ma_service.dart';
+import '../../services/mabackend_service_provider.dart';
+import '../../services/model/migraeneanfall.dart';
+import 'migraenanfall_edit_screen.dart';
 
 class MigraeneanfallListScreen extends StatefulWidget {
   const MigraeneanfallListScreen({Key? key}) : super(key: key);
